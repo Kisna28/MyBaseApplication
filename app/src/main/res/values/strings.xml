@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBaseApplication</string>
+    <string name="sign_up"> <u>Sign Up</u></string>
+    <string name="label_sign_in_underline"> <u>Sign In</u></string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="label_email_phone_number">Email/Phone number</string>
+    <string name="label_password">Password</string>
+    <string name="label_forgot_password">Forgot Password?</string>
+    <string name="logo_google">Google</string>
+    <string name="logo_facebook">Facebook</string>
+    <string name="lable_don_t_have_an_account">Don\'t have an account?</string>
+    <string name="label_or">Or</string>
+    <string name="string_empty_fields">"Please fill in all fields"</string>
+    <string name="string_invalid_email">"Invalid email or phone"</string>
+    <string name="string_invalid_password">"Invalid password"</string>
+    <string name="string_empty_email">"Email/Phone cannot be empty"</string>
+    <string name="string_empty_password">"Password cannot be empty"</string>
+    <string name="string_field_completed">"Valid email/phone and password"</string>
+</resources>
